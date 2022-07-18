@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\AgendaLocal\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\admin\source\repos\AgendaLocal\Agenda\bin\Debug\Agenda.exe
+C:\Users\admin\source\repos\AgendaLocal\Agenda\bin\Debug\Agenda.pdb
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.exe
+C:\Users\admin\source\repos\AgendaLocal\Agenda\obj\Debug\Agenda.pdb
